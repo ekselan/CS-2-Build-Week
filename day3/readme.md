@@ -1,5 +1,10 @@
 # Day III Notes
 
+## CodeSignal Unit Assessment Results: 
+https://app.codesignal.com/test-result/FdHrFzyEfEGTGmQ46?accessToken=riSN79DwWmRmwFk5H-goHrwG7aJDrrNxbjKvvG4Ezv
+
+---
+
 ## Interview Prep notes with Lindsay Gilson
 - ### Feedback from hiring managers
     - **Mistakes Noticed**
