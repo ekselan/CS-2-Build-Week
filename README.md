@@ -80,3 +80,9 @@ https://app.codesignal.com/test-result/FdHrFzyEfEGTGmQ46?accessToken=riSN79DwWmR
         - Ex. Deployed API endpoints using Postgres ETL pipeline
 3. ***Power statements for previous experience***
     - Highlight "value adds": time saved, revenue generated, positive feedback, etc (quantify it!)
+
+---
+
+# **Day V Notes**
+
+***Updated Resume Link!:*** https://docs.google.com/document/d/1VT8iRIWY4OmMlGzvTOBGOfrAU1btGxrg7BIjWAqU0YU/edit?usp=sharing
